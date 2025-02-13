@@ -13,4 +13,5 @@
 winget source update
 winget settings --enable InstallerHashOverride
 winget install Google.Chrome --ignore-security-hash
+winget install Git.Git
 winget install GitHub.cli
