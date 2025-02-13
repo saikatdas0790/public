@@ -9,7 +9,7 @@
 
 # # Restart the system if updates require a reboot
 # Restart-Computer -Force
-winget source update
+# winget source update
 winget install GitHub.cli
 winget install Google.Chrome 
 # --ignore-security-hash
