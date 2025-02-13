@@ -11,4 +11,6 @@
 # Restart-Computer -Force
 
 winget install GitHub.cli
+echo "✅ Github CLI Installed"
 winget install Google.Chrome
+echo "✅ Google Chrome Installed"
