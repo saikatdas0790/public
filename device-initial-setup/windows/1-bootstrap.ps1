@@ -11,3 +11,4 @@
 # Restart-Computer -Force
 
 winget install GitHub.cli
+winget install Google.Chrome
