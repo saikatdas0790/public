@@ -10,4 +10,4 @@
 # # Restart the system if updates require a reboot
 # Restart-Computer -Force
 
-winget install GitHub.cli
+winget install GitHub.cli --accept-source-agreements --accept-package-agreements
