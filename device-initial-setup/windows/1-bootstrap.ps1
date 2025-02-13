@@ -13,6 +13,4 @@
 winget source update
 
 winget install GitHub.cli
-echo "✅ Github CLI Installed"
 winget install Google.Chrome --ignore-security-hash
-echo "✅ Google Chrome Installed"
