@@ -10,6 +10,8 @@
 # # Restart the system if updates require a reboot
 # Restart-Computer -Force
 
+winget source update
+
 winget install GitHub.cli
 echo "✅ Github CLI Installed"
 winget install Google.Chrome
