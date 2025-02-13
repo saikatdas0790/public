@@ -11,4 +11,5 @@
 # Restart-Computer -Force
 winget source update
 winget install GitHub.cli
-winget install Google.Chrome # --ignore-security-hash
+winget install Google.Chrome 
+# --ignore-security-hash
